@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: 6ced16ea8b58fd24e9fc835f7c6b36c1
+  - enabled: 1
+    path: Assets/mainLobbyScene.unity
+    guid: 5f7d8f4d89dc4ea42a4b615c058701e4
+  - enabled: 1
+    path: Assets/Scenes/TheWaterfallScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/BirdFishScene.unity
+    guid: af8cddab74140474cb244de005c5f92e
+  - enabled: 1
+    path: Assets/MorseBirdScene.unity
+    guid: 1420ceb3c72798b459ca68eed26bcfe3
+  - enabled: 1
+    path: Assets/Scenes/EndingScene.unity
+    guid: afd929c92f022124782b3a32dc06cf02
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ac36824888d63984bb5127ca75e983c2, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b8122dee686cf9c42970375b1b62c2b2, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 01e7390ed75bb094dbd14f3de8ddc81c, type: 2}
