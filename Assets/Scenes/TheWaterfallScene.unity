@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.12731713, g: 0.13414736, b: 0.12107852, a: 1}
+  m_IndirectSpecularColor: {r: 0.12731749, g: 0.13414757, b: 0.1210787, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -8001,7 +8001,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pokeColliderLeft: {fileID: 0}
   pokeColliderRight: {fileID: 0}
-  pling: {fileID: 92371113}
 --- !u!114 &347787182
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26676,7 +26675,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pokeColliderLeft: {fileID: 0}
   pokeColliderRight: {fileID: 0}
-  pling: {fileID: 92371113}
 --- !u!114 &910480061
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31594,7 +31592,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -39647,7 +39645,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
@@ -44305,7 +44303,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pokeColliderLeft: {fileID: 0}
   pokeColliderRight: {fileID: 0}
-  pling: {fileID: 92371113}
 --- !u!114 &1293338179
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50115,7 +50112,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
+  m_SelectedEditorRenderState: 2
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89

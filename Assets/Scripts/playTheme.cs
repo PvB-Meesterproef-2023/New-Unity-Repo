@@ -33,6 +33,7 @@ public class playTheme : MonoBehaviour
         themeScore += PlayerPrefs.GetInt("morsePuzzle");
         themeScore += PlayerPrefs.GetInt("waterfallPuzzle");
         themeScore += PlayerPrefs.GetInt("alignPuzzle");
+        themeScore += PlayerPrefs.GetInt("musicPuzzle");
         breakPiano();
         switch (themeScore)
         {
@@ -59,13 +60,13 @@ public class playTheme : MonoBehaviour
 
     private void Update()
     {
-    //    if(!stopFlickering)
-    //        lobbyLight.SetActive(Convert.ToBoolean(UnityEngine.Random.Range(0, flickerFactor)));
+        //    if(!stopFlickering)
+        //        lobbyLight.SetActive(Convert.ToBoolean(UnityEngine.Random.Range(0, flickerFactor)));
     }
 
     void OnTriggerEnter(Collider col)
     {
-        if(col.name == chandelier.name)
+        if (col.name == chandelier.name)
         {
             piano.SetActive(false);
             brokenPiano.SetActive(true);

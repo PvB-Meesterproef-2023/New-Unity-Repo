@@ -18,7 +18,7 @@ EditorBuildSettings:
     path: Assets/BirdFishScene.unity
     guid: af8cddab74140474cb244de005c5f92e
   - enabled: 1
-    path: Assets/MorseBirdScene.unity
+    path: Assets/MusicScene.unity
     guid: 1420ceb3c72798b459ca68eed26bcfe3
   - enabled: 1
     path: Assets/Scenes/EndingScene.unity
